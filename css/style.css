@@ -1,0 +1,36 @@
+.business{
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.container{
+    width: 1140px;
+    margin: auto;
+}
+.mainbox{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+h6{
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+#title{
+    font-size: 42px;
+}
+#desc{
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+.btn{
+background-color: #27bd75;
+color: aliceblue;
+width: 120px;
+height: 50px;
+border-radius: 10px;
+border: solid;
+}
+.btn:hover{
+    background-color: rgb(142, 167, 248);
+}
